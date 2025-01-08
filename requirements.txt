@@ -1,3 +1,3 @@
 # python packages to install, one per line
-jupyterlab
+jupyterlab>3.0
 ipywidgets
